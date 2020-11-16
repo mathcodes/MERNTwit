@@ -1,5 +1,5 @@
 {
-  "name": "chirper",
+  "name": "twistermatter",
   "version": "1.0.0",
   "description": "A Twitter clone built with the MERN stack",
   "main": "app.js",
@@ -11,7 +11,6 @@
     "frontend": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run frontend\""
   },
-  "author": "Trevor Uptain",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
